@@ -1,2 +1,2 @@
 def bullet():
-  rectb (,1, ,5  ) 
+  circ (vaisseau_x,vaisseau_y, 10, (237,199,176)) 
