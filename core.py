@@ -36,7 +36,7 @@ class Jeu:
 
         pyxel.rect(self.vaisseau_x, self.vaisseau_y, 8, 8, 1)
         pyxel.rect(self.vaisseau_x, self.vaisseau_y, 4, 4, 12)
-        pyxel.circb(x= pyxel.mouse_x, y= pyxel.mouse_y, r=3, col=9)
+        pyxel.circb(x= pyxel.mouse_x, y= pyxel.mouse_y, r=1, col=9)
 
 
 Jeu()
