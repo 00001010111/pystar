@@ -35,6 +35,6 @@ class Jeu:
         pyxel.cls(0)
 
         pyxel.rect(self.vaisseau_x, self.vaisseau_y, 8, 8, 1)
-        pyxel.rect(self.vaisseau_x, self.vaisseau_y, 4, 4, 1)
+        pyxel.rect(self.vaisseau_x, self.vaisseau_y, 4, 4, 12)
 
 Jeu()
