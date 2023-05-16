@@ -1,2 +1,2 @@
 def bullet():
-  pset (  ) 
+  rectb (,1, ,5  ) 
